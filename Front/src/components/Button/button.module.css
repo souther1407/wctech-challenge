@@ -1,0 +1,16 @@
+.button{
+    font-size: 1.2rem;
+    border-radius: 4px;
+    border: 1px solid transparent;
+    padding: 4px 16px;
+    cursor: pointer;
+}
+
+.full{
+    background-color: blue !important;
+    color: whitesmoke;
+}
+
+.button:disabled{
+    background-color: rgb(210, 210, 230) !important;
+}

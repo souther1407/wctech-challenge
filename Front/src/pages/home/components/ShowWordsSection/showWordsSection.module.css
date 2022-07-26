@@ -1,0 +1,31 @@
+.showWordsSection {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 32px;
+}
+
+.inputsSection {
+    width: 700px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    padding: 16px 8px;
+}
+
+.title {
+    color: rgb(65, 65, 65);
+    margin-bottom: 16px;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    width: 70%;
+}
+
+.inputs > *{
+    margin-bottom: 8px;
+}

@@ -1,0 +1,13 @@
+.sendWordInput {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+}
+.send {
+    display: flex;
+    align-items: center;
+}
+.send > :first-child {
+    margin-right: 16px;
+}

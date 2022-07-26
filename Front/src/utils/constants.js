@@ -1,0 +1,1 @@
+export const BACK_URL = "https://eric-casanova-back-cwtech.herokuapp.com";
